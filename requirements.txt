@@ -2,6 +2,5 @@ typing
 fastapi
 passlib
 jwt
-sqlite3
 uvicorn
 starlette
